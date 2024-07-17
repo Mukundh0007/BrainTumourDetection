@@ -38,3 +38,42 @@ tumor classification.
 
 ### Synergy with GEMMA 
 By integrating the image classification model with GEMMA's text generation capabilities, we aim to bridge the information gap between technical diagnoses and patient understanding. The model not only classifies brain tumors but provides additional insights in a way patients can comprehend, promoting patient empowerment in their healthcare journey.
+
+
+
+
+##### References
+References 
+• Naseer, A., Yasir, T., Azhar, A., Shakeel, T., & Zafar, K. (2021). Computer￾Aided Brain Tumor Diagnosis: Performance Evaluation of Deep Learner 
+CNN Using Augmented Brain MRI. International journal of biomedical 
+imaging, 2021, 5513500. https://doi.org/10.1155/2021/5513500 
+• Sarhan, A. (2020) Brain Tumor Classification in Magnetic Resonance 
+Images Using Deep Learning and Wavelet Transform. Journal of Biomedical 
+Science and Engineering, 13, 102-112. doi: 10.4236/jbise.2020.136010. 
+• Mahmud, M.I.; Mamun, M.; Abdelgawad, A. A Deep Analysis of Brain 
+Tumor Detection from MR Images Using Deep Learning Networks. 
+Algorithms 2023, 16, 176. https://doi.org/10.3390/a16040176 
+• Saeedi, S., Rezayi, S., Keshavarz, H. et al. MRI-based brain tumor 
+detection using convolutional deep learning methods and chosen machine 
+learning techniques. BMC Med Inform Decis Mak 23, 16 (2023). https://
+doi.org/10.1186/s12911-023- 02114-6 
+• Xiong, S., Wu, G., Fan, X. et al. MRI-based brain tumor segmentation 
+using FPGA- accelerated neural network. BMC Bioinformatics 22, 421 
+(2021). https://doi.org/10.1186/s12859-021-04347-6
+• Rajinikanth, V., Kadry, S., & Nam, Y. (2021). Convolutional-neural￾network assisted segmentation and SVM classification of brain tumor in 
+clinical MRI slices. Information Technology and Control, 50 (2), 280-295. 
+• Fouad, I. A. (2021). Developing a fully automated CAD tool for effective 
+and accurate detection of brain tumors in MRI images. International 
+Journal of Computer Science and Information Security, 19(1), 1-9. 
+• Anagun, Y. Smart brain tumor diagnosis system utilizing deep 
+convolutional neural networks. Multimed Tools Appl 82, 44527-44553 
+(2023). https://doi.org/10.1007/s11042-023-15422-w
+Project Report 12
+• ZainEldin H, Gamel SA, El-Kenawy EM, Alharbi AH, Khafaga DS, Ibrahim 
+A, Talaat FM. Brain Tumor Detection and Classification Using Deep Learning 
+and Sine-Cosine Fitness Grey Wolf Optimization. Bioengineering (Basel). 
+2022 Dec 22;10(1):18. doi: 10.3390/bioengineering10010018. 
+• Chen, T., Hu, L., Lu, Q., Xiao, F., Xu, H., Li, H., & Lu, L. (2023). A 
+computer-aided diagnosis system for brain tumors based on artificial 
+intelligence algorithms. Frontiers in Neuroscience, 17, 1120781. doi: 
+10.3389/fnins.2023.1120781
