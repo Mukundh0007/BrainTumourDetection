@@ -43,7 +43,7 @@ By integrating the image classification model with GEMMA's text generation capab
 
 
 ##### References
-References 
+
 • Naseer, A., Yasir, T., Azhar, A., Shakeel, T., & Zafar, K. (2021). Computer￾Aided Brain Tumor Diagnosis: Performance Evaluation of Deep Learner 
 CNN Using Augmented Brain MRI. International journal of biomedical 
 imaging, 2021, 5513500. https://doi.org/10.1155/2021/5513500 
