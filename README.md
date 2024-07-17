@@ -12,6 +12,7 @@ This dataset is a combination of the following two datasets :
 
 This dataset contains 7023 images of human brain MRI images which are classified into 4 classes: glioma - meningioma - no tumor and pituitary.No 
 tumor class images were taken from the Br35H dataset. 
+<img width="913" alt="image" src="https://github.com/user-attachments/assets/1fe52fcf-22a4-4992-b1f4-2b9e9b35741a">
 
 The train and test split ratio is around 80:20, with 5712 images in train and 1311 images in test.
 
@@ -35,6 +36,7 @@ multiple slices that capture different sections of the brain. The LSTM
 layer, with its ability to process data in a sequential manner, can learn 
 subtle relationships between these slices that might be informative for 
 tumor classification. 
+<img width="1024" alt="Screenshot 2024-07-17 at 11 44 55 PM" src="https://github.com/user-attachments/assets/e9677d99-332a-4c95-b6e9-cbf74dd1430c">
 
 ### Synergy with GEMMA 
 By integrating the image classification model with GEMMA's text generation capabilities, we aim to bridge the information gap between technical diagnoses and patient understanding. The model not only classifies brain tumors but provides additional insights in a way patients can comprehend, promoting patient empowerment in their healthcare journey.
