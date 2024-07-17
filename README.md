@@ -38,6 +38,9 @@ tumor classification.
 
 ### Synergy with GEMMA 
 By integrating the image classification model with GEMMA's text generation capabilities, we aim to bridge the information gap between technical diagnoses and patient understanding. The model not only classifies brain tumors but provides additional insights in a way patients can comprehend, promoting patient empowerment in their healthcare journey.
+![image](https://github.com/user-attachments/assets/003caa3a-27be-4a95-bf99-2c9b8f6306d2)
+
+![image](https://github.com/user-attachments/assets/b1289209-6c19-449d-aaea-61a9e28dea32)
 
 
 
